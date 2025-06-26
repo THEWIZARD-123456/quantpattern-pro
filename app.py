@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 from sklearn.preprocessing import StandardScaler
 from scipy.spatial.distance import euclidean
 from fastdtw import fastdtw
-#import pandas_ta as ta
+import pandas_ta as ta
 
 # --- App Configuration ---
 st.set_page_config(
