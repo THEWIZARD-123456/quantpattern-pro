@@ -1,9 +1,9 @@
 streamlit
-yfinance
 pandas
 numpy
-scikit-learn
-plotly
-fastdtw
+yfinance
 python-dateutil
+plotly
+scikit-learn
+fastdtw
 pandas-ta
