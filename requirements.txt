@@ -7,3 +7,4 @@ plotly
 scikit-learn
 fastdtw
 pandas-ta
+setuptools
