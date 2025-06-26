@@ -1,0 +1,3 @@
+build-essential
+gfortran
+python3-dev
